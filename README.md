@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+JohnsonCopyRight::Renderer.copyright 'Dallin Johnson', 'All rights reserved'
+```
 
 ## Development
 
